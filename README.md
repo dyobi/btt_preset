@@ -12,6 +12,8 @@
 git clone https://github.com/dyobi/BTT_PRESET.git && cd BTT_PRESET
 ```
 
+<br />
+
 ## Preview
 
 > Settings `⌘⌥⇧P`
@@ -35,6 +37,8 @@ git clone https://github.com/dyobi/BTT_PRESET.git && cd BTT_PRESET
 
 ---
 
+<br />
+
 ## Guestures
 
 > `Two Finger Swipe` : Volume Up / Down
@@ -42,6 +46,8 @@ git clone https://github.com/dyobi/BTT_PRESET.git && cd BTT_PRESET
 > `Three Finger Swipe` : Brightness Up / Down
 
 ---
+
+<br />
 
 ## License
 
