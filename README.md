@@ -35,8 +35,6 @@ git clone https://github.com/dyobi/BTT_PRESET.git && cd BTT_PRESET
 > When to press `fn`
 <img src="https://github.com/dyobi/BTT_PRESET/blob/master/imgs/withfn.png?raw=true" width="80%" title="preview" alt="preview">
 
----
-
 <br />
 
 ## Guestures
@@ -45,10 +43,10 @@ git clone https://github.com/dyobi/BTT_PRESET.git && cd BTT_PRESET
 
 > `Three Finger Swipe` : Brightness Up / Down
 
----
-
 <br />
 
 ## License
 
 - Modified from goldenchaos-btt by dyobi.
+
+<br />
