@@ -1,8 +1,8 @@
-<a href="https://hypertube.aidandlim.com" title="header" alt="header">
+<a href="#" title="header" alt="header">
   <img src="https://i1.wp.com/www.cracks4win.com/wp-content/uploads/2017/11/BetterTouchTool-For-MacOsx-Free-Download.png" width="200" height="200" title="header" alt="header">
 </a>
 
-# BTT_PRESET
+# Better Touch Tool preset
 
 > Customizing macbook touch bars
 
